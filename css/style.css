@@ -14,7 +14,7 @@ span{
 
 h2, p{
     font-size: 25px;
-   color: aliceblue; 
+   color: rgb(121, 141, 159); 
 }
 
 h4{
@@ -28,7 +28,7 @@ h4 span{
 
 h1{
     font-size: 35px;
-   color: aliceblue;
+   color: rgb(121, 141, 159); 
 }
 
 .home{
